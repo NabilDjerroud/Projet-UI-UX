@@ -7,6 +7,10 @@
 /* Espacement */
 
 /* Composantes individuelles (Ex: bouton) */
+.btn{
+  box-shadow: inset;
+  border-radius: 12px;
+}
 
 /* Modules/mise en page spéciale (Ex: Grilles, formulaires)*/
 
