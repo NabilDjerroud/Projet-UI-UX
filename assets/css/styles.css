@@ -11,3 +11,7 @@
 /* Modules/mise en page spéciale (Ex: Grilles, formulaires)*/
 
 /* Exceptions pour certaines pages */
+
+body {
+  font-size: large;
+}
